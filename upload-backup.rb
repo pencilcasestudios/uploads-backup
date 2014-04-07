@@ -1,4 +1,4 @@
-if ARGV[0] && ARGV[1] && ARGV[2]
+if ARGV[0] && ARGV[1]
 	application_name = ARGV[0]
 	s3_bucket_name = ARGV[1]
 
